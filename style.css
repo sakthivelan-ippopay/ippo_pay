@@ -27,13 +27,11 @@ nav{
     margin: 2%;
     color: grey;
     padding: 2%;
+    border-radius: 25px;
 }
 .navmid:hover{
     transition: 400ms;
-    padding: 1.9%;
-    font-weight: 400;
     color: #061d62;
-    border-radius: 25px;
     background-color: #dff3fe;
 }
 
